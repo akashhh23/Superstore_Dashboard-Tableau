@@ -69,9 +69,10 @@ Analyze KPIs like profit margins, sales trends, and category-wise performance.
 
 Focus on loss-making sub-categories and optimize strategies for better performance.
 
-Feel free to explore the dashboard and share your feedback! Suggestions for improvement are always welcome.
 ## Author - Akash Patil
 
 This project is part of my portfolio, showcasing the Tableau skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 - **LinkedIn**: [[Connect with me professionally](https://www.linkedin.com/in/najirr)](https://www.linkedin.com/in/akash-patil-674569219)
+
+Feel free to explore the dashboard and share your feedback! Suggestions for improvement are always welcome.
