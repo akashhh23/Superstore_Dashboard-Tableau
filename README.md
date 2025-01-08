@@ -55,9 +55,9 @@ Seasonal trends and growth patterns for actionable intelligence.
 Designed for seamless user experience across devices.
 ## ▪ Technologies Used
 
-▪Tableau Desktop: For creating and designing the dashboard.
+▪ Tableau Desktop: For creating and designing the dashboard.
 
-▪Data Transformation: Cleaned and prepped data using Tableau's built-in tools.
+▪ Data Transformation: Cleaned and prepped data using Tableau's built-in tools.
 ## How to Use
 ##  Explore the Dashboard:
 
