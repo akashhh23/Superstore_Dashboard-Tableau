@@ -67,6 +67,8 @@ Interact with filters to focus on specific categories, regions, or time frames.
 Analyze KPIs like profit margins, sales trends, and category-wise performance.
 ##  Identify Opportunities:
 
+Focus on loss-making sub-categories and optimize strategies for better performance.
+
 Feel free to explore the dashboard and share your feedback! Suggestions for improvement are always welcome.
 ## Author - Akash Patil
 
